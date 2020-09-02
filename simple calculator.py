@@ -10,7 +10,7 @@ elif z == "-":
 elif z == "*":
     print(a1 * a2)
 elif a2 > 0 and z == "/":
-    print(int(a1 / a2))
+    print (a1 / a2)
 elif a2 == 0 and z == "/":
     print("Division by zero is undefined!")
 else:
